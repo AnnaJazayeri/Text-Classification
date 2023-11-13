@@ -2,5 +2,3 @@
 __MACOSX
 labeled_dataset
 unlabeled_dataset
-all_labels.txt
-label_lines.txt
